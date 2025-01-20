@@ -18,8 +18,8 @@ The claim amount is analyzed across age groups to identify patterns in claim sub
 ### Summary Metrics:
 KPIs for total premium amount, coverage amount, and claim amounts provide a quick overview of the financial performance.
 Policy and claim numbers are available as slicers for drill-down analysis.
-Data Table:
 
+### Data Table:
 A detailed table displays individual policy and claim details, including customer ID, policy type, premium and coverage amounts, claim status, and claim dates.
 
 ### Additional Details:
